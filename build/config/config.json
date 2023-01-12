@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB9e7A4b1DA87ed6B74e72A3Aa93282D59deB64Dd",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xB9e7A4b1DA87ed6B74e72A3Aa93282D59deB64Dd",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 5
+  },
+  "NFT_NAME": "Retro Cart",
+  "SYMBOL": "RCRT",
+  "MAX_SUPPLY": 1700,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/retrocart",
+  "SHOW_BACKGROUND": true
+}
